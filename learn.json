@@ -1,7 +1,13 @@
 {
 	"slug" : "compression-algorithm-python",
-	"title" : "Compression Algorithm w/Python",
-	"description": "Building a Compression Algorithm using Python and Emojis",
+	"title" : {
+		"us": "Compression Algorithm w/Python",
+		"es": "Algoritmo de compresión con Python"
+	},
+	"description" : {
+		"us":"Build a text compression algorithm that replaces specific words with symbols to reduce file size. Implement functions to compress and decompress text using a dictionary, ensuring no data is lost. Practice string manipulation, dictionaries, and file handling while measuring compression efficiency.",
+		"es":"Crea un algoritmo de compresión de texto que reemplace palabras específicas por símbolos para reducir el tamaño del archivo. Implementa funciones para comprimir y descomprimir texto usando un diccionario, asegurando que no se pierdan datos. Practica manipulación de strings, diccionarios y manejo de archivos mientras mides la eficiencia de compresión."
+    },
 	"preview": "https://raw.githubusercontent.com/breatheco-de/exercise-compression-algorithm-python/master/preview.png",
 	"solution": "https://github.com/breatheco-de/exercise-compression-algorithm-python/tree/solution",
 	"status": "published",
@@ -13,5 +19,8 @@
 		{ "badge": "identator", "points": 10 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=178"
+	  }
 }
