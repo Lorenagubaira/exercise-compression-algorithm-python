@@ -45,7 +45,7 @@ El actual proyecto tiene 3 archivos:
 5. Edite decompress.py para crear el algoritmo de ** decompression **.
 6. Prueba tu algoritmo de decompresssion ejecutando app.py nuevamente.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
     
 ## 🌱  Cómo iniciar este proyecto
 
@@ -74,7 +74,7 @@ Deberías obtener una respuesta similar a esta:
 document.txt has 824 size, compressed.txt has 768 size, compression of 7% in 0.0003972053527832031 seconds 
 ```
 
-</onlyfor>
+</how-to-start>
 
 ## 🎯 Métricas
 
